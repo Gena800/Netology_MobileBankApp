@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/w1cnotdx83y24ubq/branch/main?svg=true)](https://ci.appveyor.com/project/Gena800/netology-mobilebankapp/branch/main)
